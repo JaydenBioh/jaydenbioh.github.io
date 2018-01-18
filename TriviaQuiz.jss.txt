@@ -1,0 +1,16 @@
+function main(){ 
+if (i===1){ 
+	document.view.qnum.value=i;
+    document.view.qscore.value=0;
+	document.view.question.value ="What is the most points ever scored in a NBA game? \na)70 points \nb)81 points\nc)100 points\nd)78 points";
+    document.view.qans.value=""
+}
+else if (i===2){ 
+	document.view.qnum.value=i;	
+	document.view.question.value ="What team has the best NBA record of All-Time? \na)Bulls 72-10 \nb)Warriors 73-9 \nc)Cavs 77-5 \nd)Spurs 74-8";
+    document.view.qans.value=""
+}
+else if (i===3){ 
+	document.view.qnum.value=i;	
+	document.view.question.value ="What is the most yars thrown by a QB in a NFL game?\na)554 yards \nb)558 yards \nc)500 yards \nd)603 yards";
+    document.view.qans.value=""
