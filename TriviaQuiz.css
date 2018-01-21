@@ -1,14 +1,7 @@
 
-#b {
+body {
 
-  background-image: url(TriviaQuizBackground.jpg');
-
-}
-
-
-
-#r {
-
-  width: 400px; height: 250px;
+background-image:url("TriviaQuizBackground.jpg")
 
 }
+
