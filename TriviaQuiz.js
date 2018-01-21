@@ -356,11 +356,11 @@ else if (i===10){
 else if (i===11){
     alert("You got"+ " " + Math.round(score/(i-1)*100)  + "% for this Trivia Quiz")
 if (score>=8) {
-	document.searchImage.src = "images/goodscore.gif"
+	
 	alert("You got an 80% or above! Somebody knows their sports! Good job!")
 }
 else {
-	document.searchImage.src = "images/badscore.gif"
+	
 	alert("Don't feel bad not everbody wins on their first try, did MJ quit when he was cut from his high school team, NOPE! So you can do this.")
 }
 	}
